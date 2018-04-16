@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/hemanthkumar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/scratch/AndroidStudioProjects/Retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_0d3d5d68bdfe693536b592d391554be841c72ec4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/scratch/AndroidStudioProjects/Retrofit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/scratch/AndroidStudioProjects/Retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_49742789f44be5c2baea8f7007cdeaa4e8925491/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hemanthkumar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/scratch/AndroidStudioProjects/Retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_5efe4833b2034c359100210bce5314750ef77644/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hemanthkumar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/scratch/AndroidStudioProjects/Retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_07f7e6f9010a361f912c98f1e5b9a862af6c9cf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/scratch/AndroidStudioProjects/Retrofit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6296ea6585e6c9e7abcd5872757c72eab69665d">
+        <dex dex="/scratch/AndroidStudioProjects/Retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa3c469207e07f6cfd2f174696e44b8db02b6749/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hemanthkumar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/scratch/AndroidStudioProjects/Retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_38c3e124c76aef3acb27b8605687f4c9ea028732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hemanthkumar/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/scratch/AndroidStudioProjects/Retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_7ff07143edd8f743c20b671c8ae51cbdf4541f82/classes.dex" />
+    </item>
+
+</items>
